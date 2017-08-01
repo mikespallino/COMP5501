@@ -19,6 +19,8 @@ All job submission scripts are located in the /submission_scripts.
 
 All source code is included in /src.
 
+The User Guide for constructing this cluster is provided in this repository as well.
+
 ## Three Main Programs
 
 There are three main programs included in this repository. An integral solver, a dictionary password attack, and a
