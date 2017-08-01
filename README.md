@@ -47,3 +47,8 @@ Pi Miner
 ```
 mpicc pi_miner.c -o pi_miner -lssl -lcrypto
 ```
+
+Running a program (n is a placeholder for the number of nodes to run the program on in the cluster).
+```
+mpirun -np n prog
+```
